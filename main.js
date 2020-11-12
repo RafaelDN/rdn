@@ -1,5 +1,5 @@
-module.exports = (function(){
+module.rdnLogger = (function(){
     return {
         logit: msg => console.log(msg)
     }
-})();;
+})();
